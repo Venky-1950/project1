@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.center {
+  text-align: center;
+  color: blue;
+  border:2px solid Tomato;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  image-align: center;
+}
+</style>
+</head>
+
+<body>
+
+<h1 class="center">Welcome to Venkat's nginx</h1>
+<img src="lionking.jpg" style="width:35%;">
+<p style="color:green;"><b>Name : </b> Venkat Revanth Paduchuri</p>
+<p style="color:green;"><b>LinkedIn : <a href="https://www.linkedin.com/in/venkat-revanth-paduchuri-a4a169162?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Venkat Revanth</a> </b></p>
+<p style="color:green;"><b>Docker : <a href="https://hub.docker.com/repositories/venky100">Venky's</a> </b></p>
+<p style="color:green;"><b>Git Hub : <a href="https://https://github.com/Venky-1950/project1">Venkat-Git</a></b></p>
+<body>
+
+<html>
